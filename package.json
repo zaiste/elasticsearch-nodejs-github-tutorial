@@ -1,0 +1,10 @@
+{
+  "name": "npm-elasticsearch",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "elasticsearch": "^14.2.2"
+  }
+}
